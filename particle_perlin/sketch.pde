@@ -11,7 +11,7 @@ void setup() {
   //button = createButton("switch");
   //button.position(580, 580);
   particles = new ArrayList<Particle>();
-  text("Perlin Noise", 300, 100);
+  //text("Perlin Noise", 300, 100);
   //noise = new OpenSimplexNoise();
 }
 
